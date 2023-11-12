@@ -1,0 +1,40 @@
+{
+    "coffeeShop": {
+      "description": "Rumah CoffeeShop adalah konsep kafe yang bertujuan memberikan pengalaman kopi yang tak terlupakan dengan sentuhan kehangatan dan keakraban. Terletak di pusat kota, kafe ini akan menjadi destinasi utama bagi pecinta kopi yang mencari lingkungan santai untuk bersantai, bekerja, atau bertemu teman. Dengan dekorasi yang unik dan beragam pilihan kopi berkualitas tinggi, Rumah CoffeeShop bertujuan menjadi rumah bagi mereka yang menyukai cita rasa dan atmosfer yang istimewa.",
+      "businessGoals": [
+        "Menjadi destinasi utama bagi pecinta kopi di pusat kota.",
+        "Menawarkan pengalaman kopi berkualitas tinggi dengan berbagai varian kopi, teh, minuman segar, dan camilan lezat.",
+        "Menciptakan lingkungan yang nyaman dan ramah untuk pelanggan bekerja, bersantai, dan bertemu."
+      ],
+      "cafeConcept": {
+        "decorAndAmbiance": {
+          "styles": ["Gabungan sentuhan modern dan nuansa vintage.", "Ruang yang nyaman dengan kursi yang ergonomis.", "Pencahayaan hangat untuk menciptakan atmosfer yang menyenangkan."]
+        },
+        "coffeeMenu": {
+          "options": ["Pilihan kopi dari biji-biji pilihan.", "Teh berkualitas tinggi dan minuman segar.", "Camilan lezat yang cocok sebagai pendamping."]
+        },
+        "freeWiFi": "Fasilitas akses internet untuk pelanggan yang ingin bekerja atau bersosialisasi."
+      },
+      "targetMarket": [
+        "Pecinta kopi yang mencari pengalaman kopi premium.",
+        "Profesional yang mencari tempat kerja yang nyaman.",
+        "Komunitas lokal yang menginginkan tempat berkumpul yang bersahabat."
+      ],
+      "marketingStrategy": {
+        "socialMedia": ["Kampanye pemasaran melalui platform media sosial.", "Berbagi cerita pelanggan dan konten visual menarik."],
+        "localPartnerships": ["Kerjasama dengan bisnis lokal untuk promosi bersama.", "Memberikan diskon khusus untuk anggota komunitas lokal."],
+        "membershipProgram": ["Program loyalitas untuk pelanggan tetap.", "Diskon khusus, penawaran eksklusif, dan akses ke acara khusus."],
+        "easyPayment": "Rumah CoffeeShop ini memiliki semua metode pembayaran yang bisa memudahkan pembeli untuk membayar."
+      },
+      "onlinePurchase": {
+        "website": "Kunjungi website Rumah CoffeeShop untuk menjelajahi menu kami, memesan kopi favorit Anda, dan melakukan pembayaran dengan mudah. Pengalaman pembelian online yang sederhana dan aman menanti Anda."
+      },
+      "financialPlan": {
+        "revenue": ["Penjualan kopi, teh, dan minuman lainnya.", "Penjualan camilan dan produk tambahan.", "Layanan Wi-Fi premium (opsional)."],
+        "operationalCosts": ["Pembelian bahan baku.", "Gaji karyawan.", "Pemasaran dan promosi.", "Biaya sewa dan utilitas."]
+      },
+      "profitProjection": "Berdasarkan analisis pasar dan proyeksi penjualan, kami mengharapkan pertumbuhan bisnis yang stabil dan pencapaian titik impas dalam enam bulan pertama. Dengan dukungan penuh dari tim yang berdedikasi, Rumah CoffeeShop diharapkan menjadi kontributor utama dalam industri kafe lokal.",
+      "closure": "Rumah CoffeeShop tidak hanya sekadar kafe; itu adalah tempat yang merangkul kehangatan rumah dan nikmatnya kopi berkualitas tinggi. Kami berharap untuk mendapatkan dukungan dari komunitas lokal dan menjadi bagian integral dari kehidupan sehari-hari pelanggan kami. Rumah CoffeeShop siap menyajikan pengalaman kopi yang istimewa dan menjadi 'rumah' bagi semua pecinta kopi dan pengunjung setia."
+    }
+  }
+  
